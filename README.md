@@ -11,7 +11,7 @@
 
 A local-first, filesystem-backed Kanban board. Your boards live as Markdown files on disk — fully portable, AI-agent readable, no vendor lock-in.
 
-![Downloads](https://img.shields.io/github/downloads/donkruger/Kanban/total?style=flat&label=Downloads&color=brightgreen)  ![Latest Release](https://img.shields.io/github/v/release/donkruger/Kanban?style=flat&label=Latest&color=blue)  ![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows-lightgrey?style=flat)
+![Total Downloads](https://img.shields.io/github/downloads/donkruger/Kanban/total?style=flat&label=Downloads&color=brightgreen&cacheSeconds=300) ![Latest Release Downloads](https://img.shields.io/github/downloads/donkruger/Kanban/latest/total?style=flat&label=Latest%20Downloads&color=success&cacheSeconds=300) ![Latest Release](https://img.shields.io/github/v/release/donkruger/Kanban?style=flat&label=Latest&color=blue&cacheSeconds=300) ![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Windows-lightgrey?style=flat)
 
 ## Download — Early Access
 
