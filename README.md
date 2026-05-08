@@ -17,7 +17,7 @@ A local-first, filesystem-backed Kanban board. Your boards live as Markdown file
 
 | Platform | Download |
 |----------|----------|
-| **Apple Silicon** (M1 / M2 / M3 / M4) | [Kanban Pro — arm64.dmg](https://github.com/donkruger/Kanban/releases/latest) |
+| **Apple Silicon** (M1 / M2 / M3 / M4 / M5) | [Kanban Pro — arm64.dmg](https://github.com/donkruger/Kanban/releases/latest) |
 | **Intel Mac** | [Kanban Pro — x64.dmg](https://github.com/donkruger/Kanban/releases/latest) |
 | **Windows** (x64) | [Kanban Pro Setup.exe](https://github.com/donkruger/Kanban/releases/latest) |
 
