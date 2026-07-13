@@ -27,6 +27,10 @@ macOS DMGs are **signed and notarized** with Apple Developer ID. The Windows ins
 
 [goodguyapps.com](https://goodguyapps.com)
 
+## Privacy Policy
+
+[goodguyapps.com/privacy](https://goodguyapps.com/privacy)
+
 ## License
 
 Kanban Pro is proprietary software. All rights reserved.
