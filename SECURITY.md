@@ -15,7 +15,7 @@ Please report security issues privately. Do **not** open a public GitHub issue f
 
 **Preferred:** use GitHub's private vulnerability reporting for this repository — open the **Security** tab and choose **Report a vulnerability**.
 
-**Email fallback:** security@goodguyapps.com
+**Email fallback:** contact.goodguyapps@gmail.com
 
 Please include:
 
