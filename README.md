@@ -7,6 +7,9 @@
 ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝      ╚═╝  ╚═╝  ╚═════╝ 
 ```
 
+https://github.com/user-attachments/assets/ad7531a5-25f7-424f-8639-4f9dbf410b37
+
+
 # Kanban Pro
 
 A local-first, filesystem-backed Kanban board. Your boards live as Markdown files on disk — fully portable, AI-agent readable, no vendor lock-in.
