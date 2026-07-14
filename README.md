@@ -7,8 +7,7 @@
 ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═══╝ ╚═════╝  ╚═╝  ╚═╝ ╚═╝  ╚═══╝    ╚═╝      ╚═╝  ╚═╝  ╚═════╝ 
 ```
 
-https://github.com/user-attachments/assets/ad7531a5-25f7-424f-8639-4f9dbf410b37
-
+https://github.com/user-attachments/assets/cd87432b-c064-43b5-a03c-c2dbdc94284f
 
 # Kanban Pro
 
